@@ -62,6 +62,6 @@ Links
 -----
 
 * http://nginx.org/
-* https://github.com/arut/nginx-rtmp-module
+* https://github.com/arut/nginx-ts-module
 * https://www.ffmpeg.org/
 * https://obsproject.com/
