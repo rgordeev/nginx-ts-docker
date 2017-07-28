@@ -67,3 +67,4 @@ Links
 * https://github.com/arut/nginx-ts-module
 * https://www.ffmpeg.org/
 * https://obsproject.com/
+* https://github.com/brocaar/nginx-rtmp-dockerfile
